@@ -3,12 +3,14 @@ Module 16 Challenge
 
 ## Linear Regression to Predict MPG
 Screenshot:
+
 ![image](https://user-images.githubusercontent.com/115592394/219260571-07b3afed-2aa5-46e6-abb6-ac11655a15f2.png)
 
 Looking through the results shown above it can be determined that both vehicle length and ground clearance provided a non-random amount of variance to the mpg values in the dataset. Also, the p-value shown of 5.35e-11 is much smaller than our assumed significance level of 0.05. This shows that our null hypothesis can be rejected and therefore we know that the slow of this linear regression is not zero. Lastly, with a multiple R-squared value of 0.7149 which means that roughly 71.5% of our mpg predictions can be assumed via this regression. Therefore, I would ultimately say that this linear regression model does predict mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
 Screenshots:
+
 ![image](https://user-images.githubusercontent.com/115592394/219262831-748272d2-9da3-4a41-991d-ede02b29ab70.png)
 
 ![image](https://user-images.githubusercontent.com/115592394/219262887-815553bf-5be5-48ad-ad99-0bec9b7f0e02.png)
@@ -17,6 +19,7 @@ Per the above screenshots, the overall variance of 62.29 in the total_summary ch
 
 ## T-Tests on Suspension Coils
 Screenshots:
+
 ![image](https://user-images.githubusercontent.com/115592394/219264134-710adfba-94f7-4872-8cb1-edb7a2a10dab.png)
 
 ![image](https://user-images.githubusercontent.com/115592394/219264200-e6d6ed17-24cf-4650-9b0d-2f2bf2fc9b38.png)
